@@ -1,11 +1,3 @@
-#Include E:\T7\AutoHotKey Scripts\AutoHotKey Scripts\GUI\Gui Functions\GUI Center Function.ahk
-#Include E:\T7\AutoHotKey Scripts\AutoHotKey Scripts\GUI\Gui Functions\Resizing Guis.ahk
-/*
-USAGE EXAMPLES:
-GuiCenterFunction(CenterWithinLength, TextLength)
-ResizeGUI(GuiXPosition := "", GuiYPosition := "", GuiWidth := "", GuiHeight := "", GuiText := 9)
-[ScaledXPosition, ScaledYPosition, ScaledWidth, ScaledHeight, ScaledText, WidthScale, HeightScale]
-*/
 #IfWinActive ahk_exe RobloxPlayerBeta.exe
 #SingleInstance Force
 SetWorkingDir %A_ScriptDir%
