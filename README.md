@@ -1,0 +1,2 @@
+# Rogue-Lineage-Blacksmith-Macro
+A macro for Rogue Lineage's Blacksmith's class that farms silver. (UNFINISHED)
